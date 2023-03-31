@@ -4,6 +4,9 @@ The main objective of this project is to focus on how data generated from YouTub
 
 Tools Used
 1.Hadoop
+
 2.Node Js
+
 3.Cassandra
+
 4.Power BI
